@@ -21,7 +21,7 @@ This project features an interactive Power BI dashboard that visualizes and anal
 Clone this repository to your local system:
 bash
 Copy code
-git clone [https://github.com/<your-username>/COVID19-Dashboard.git](https://github.com/Waqar090/Corona_19-Global-Data-Analytics)  
+git clone https://github.com/Waqar090/Corona_19-Global-Data-Analytics/tree/main 
 Open the .pbix file in Power BI Desktop.
 Explore the dashboard's interactive features for insights.
 Data Source
